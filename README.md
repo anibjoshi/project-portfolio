@@ -43,3 +43,10 @@ Link to Project: https://github.com/anuradhaboche/robo-advisor.git
   * [Packages](#packages)
   * [Reporting Issues/Suggest Improvements](#reporting-issues-suggest-improvements)
   * [FOSSA third-party code, license compliance and vulnerabilities](#FOSSA-third-party-code,-license-compliance-and-vulnerabilities)
+  
+  
+  
+  ## EER Diagram
+
+<img src="images\SBAT-EER-Diagram.png"/>
+
